@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(200, 224, 44);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: aqua;
+    width: 270px;
+    margin: 200px 600px;
+    padding: 30px 20px;
+    border-radius: 4px;
+    padding-bottom: 35px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 97%;
+    border-radius: 4px;
+    background-color: rgb(199, 242, 255);
+}
+
+.sign {
+    width: 150px;
+    height: 25px;
+    background-color: rgb(12, 140, 147);
+    color: white;
+    border-radius: 4px;
+    margin-left: 23%;
+}
+
+.sign:hover {
+    background-color: rgb(66, 241, 116);
+    color: red;
+}
+
+p {
+    text-align: center;
+    margin-top: -190px;
+}
+
+a {
+    color: brown;
+}
